@@ -1,0 +1,1 @@
+import{s as e}from"./config-DOMQDZGZ.js";var t=()=>{let{data:t}=e({refetchOnMount:!1});return t?.config.hostSettings?.limits};export{t};

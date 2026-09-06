@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DX3WBWVO.js";import{t}from"./posts-list-screen-CBGGgjjj.js";var n=e();function r(){return(0,n.jsx)(t,{resource:`posts`})}export{r as default};

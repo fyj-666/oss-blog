@@ -1,0 +1,1 @@
+import{o as e}from"./config-DOMQDZGZ.js";import{n as t}from"./global-data-context-gAMDH9u1.js";function n(){let{config:n}=t();return e(n)}export{n as t};

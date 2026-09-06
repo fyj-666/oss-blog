@@ -1,0 +1,29 @@
+# ========== Ghost 运行数据（绝对不能提交！） ==========
+runtime/content/data/
+runtime/content/logs/
+runtime/.env
+runtime/.env*
+runtime/config.*
+runtime/versions/
+runtime/node_modules/
+runtime/current/node_modules/
+runtime/package-lock.json
+
+# ========== Ghost 包管理缓存（超大目录，不提交） ==========
+runtime/.pnpm-store/
+
+# ========== 主题依赖 ==========
+theme/my-awesome-theme/node_modules/
+theme/my-awesome-theme/package-lock.json
+theme/my-awesome-theme/built/
+theme/my-awesome-theme/dist/
+theme/my-awesome-theme/*.zip
+
+# ========== 系统文件 ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== 日志 ==========
+*.log
+npm-debug.log*
